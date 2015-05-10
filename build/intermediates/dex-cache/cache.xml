@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dennis/StudioProjects/Focused Driving/app/libs/libmuseandroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9022422865263ca7c52cee9db33e0862d51e2461">
+        <dex dex="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/pre-dexed/debug/libmuseandroid-77f95783d87f45555d8eddb61e77dc11dbd4ef07.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/Desktop/Final/Focused Driving/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Dennis/Desktop/Final/Focused Driving/app/build/intermediates/pre-dexed/debug/classes-63eb42cbc1374a7218a8f310d613ee74a820e546.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6ef7efff20d1ccf0b0cc77e5a0acb2df2fc5c986.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/pre-dexed/debug/classes-51af645e5711f685de3118332f604893960637e1.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/Desktop/Final/Focused Driving/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Dennis/Desktop/Final/Focused Driving/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-33f73933293bc7dd90ed80ce79dada69ebf75803.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/Desktop/Final/Focused Driving/app/libs/libmuseandroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9022422865263ca7c52cee9db33e0862d51e2461">
+        <dex dex="/Users/Dennis/Desktop/Final/Focused Driving/app/build/intermediates/pre-dexed/debug/libmuseandroid-534e7ff9e399c9b1af8e61c1c2abb25e0aea059d.jar" />
+    </item>
+    <item
+        jar="/Users/Dennis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Dennis/StudioProjects/Focused Driving/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1486f7387486bdc5c0c8281afb4b0f5390fdf3a2.jar" />
+    </item>
+
+</items>
